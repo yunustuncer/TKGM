@@ -1,4 +1,4 @@
-﻿
+; Takbis Plus  ****  V.25_1﻿
 
 ;********** Başvuru Monitörü Genişlik Ve Aşıklama Menüsü **************
 
